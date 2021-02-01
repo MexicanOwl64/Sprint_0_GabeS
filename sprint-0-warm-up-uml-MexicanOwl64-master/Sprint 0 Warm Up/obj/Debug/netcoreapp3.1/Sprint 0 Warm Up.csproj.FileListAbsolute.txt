@@ -1,0 +1,13 @@
+D:\Download\sprint-0-warm-up-uml-MexicanOwl64-master\sprint-0-warm-up-uml-MexicanOwl64-master\Sprint 0 Warm Up\obj\Debug\netcoreapp3.1\Sprint 0 Warm Up.csprojAssemblyReference.cache
+D:\Download\sprint-0-warm-up-uml-MexicanOwl64-master\sprint-0-warm-up-uml-MexicanOwl64-master\Sprint 0 Warm Up\obj\Debug\netcoreapp3.1\Sprint 0 Warm Up.AssemblyInfoInputs.cache
+D:\Download\sprint-0-warm-up-uml-MexicanOwl64-master\sprint-0-warm-up-uml-MexicanOwl64-master\Sprint 0 Warm Up\obj\Debug\netcoreapp3.1\Sprint 0 Warm Up.AssemblyInfo.cs
+D:\Download\sprint-0-warm-up-uml-MexicanOwl64-master\sprint-0-warm-up-uml-MexicanOwl64-master\Sprint 0 Warm Up\obj\Debug\netcoreapp3.1\Sprint 0 Warm Up.csproj.CoreCompileInputs.cache
+D:\Download\sprint-0-warm-up-uml-MexicanOwl64-master\sprint-0-warm-up-uml-MexicanOwl64-master\Sprint 0 Warm Up\bin\Debug\netcoreapp3.1\Sprint 0 Warm Up.exe
+D:\Download\sprint-0-warm-up-uml-MexicanOwl64-master\sprint-0-warm-up-uml-MexicanOwl64-master\Sprint 0 Warm Up\bin\Debug\netcoreapp3.1\Sprint 0 Warm Up.deps.json
+D:\Download\sprint-0-warm-up-uml-MexicanOwl64-master\sprint-0-warm-up-uml-MexicanOwl64-master\Sprint 0 Warm Up\bin\Debug\netcoreapp3.1\Sprint 0 Warm Up.runtimeconfig.json
+D:\Download\sprint-0-warm-up-uml-MexicanOwl64-master\sprint-0-warm-up-uml-MexicanOwl64-master\Sprint 0 Warm Up\bin\Debug\netcoreapp3.1\Sprint 0 Warm Up.runtimeconfig.dev.json
+D:\Download\sprint-0-warm-up-uml-MexicanOwl64-master\sprint-0-warm-up-uml-MexicanOwl64-master\Sprint 0 Warm Up\bin\Debug\netcoreapp3.1\Sprint 0 Warm Up.dll
+D:\Download\sprint-0-warm-up-uml-MexicanOwl64-master\sprint-0-warm-up-uml-MexicanOwl64-master\Sprint 0 Warm Up\bin\Debug\netcoreapp3.1\Sprint 0 Warm Up.pdb
+D:\Download\sprint-0-warm-up-uml-MexicanOwl64-master\sprint-0-warm-up-uml-MexicanOwl64-master\Sprint 0 Warm Up\obj\Debug\netcoreapp3.1\Sprint 0 Warm Up.dll
+D:\Download\sprint-0-warm-up-uml-MexicanOwl64-master\sprint-0-warm-up-uml-MexicanOwl64-master\Sprint 0 Warm Up\obj\Debug\netcoreapp3.1\Sprint 0 Warm Up.pdb
+D:\Download\sprint-0-warm-up-uml-MexicanOwl64-master\sprint-0-warm-up-uml-MexicanOwl64-master\Sprint 0 Warm Up\obj\Debug\netcoreapp3.1\Sprint 0 Warm Up.genruntimeconfig.cache
