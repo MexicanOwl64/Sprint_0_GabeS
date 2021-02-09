@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Download\\sprint-0-warm-up-uml-MexicanOwl64-master\\sprint-0-warm-up-uml-MexicanOwl64-master\\Sprint 0 Warm Up\\Sprint 0 Warm Up.csproj": {}
+    "C:\\Users\\mario\\Documents\\GitHub\\Sprint_0_GabeS\\sprint-0-warm-up-uml-MexicanOwl64-master\\Sprint 0 Warm Up\\Sprint 0 Warm Up.csproj": {}
   },
   "projects": {
-    "D:\\Download\\sprint-0-warm-up-uml-MexicanOwl64-master\\sprint-0-warm-up-uml-MexicanOwl64-master\\Sprint 0 Warm Up\\Sprint 0 Warm Up.csproj": {
+    "C:\\Users\\mario\\Documents\\GitHub\\Sprint_0_GabeS\\sprint-0-warm-up-uml-MexicanOwl64-master\\Sprint 0 Warm Up\\Sprint 0 Warm Up.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Download\\sprint-0-warm-up-uml-MexicanOwl64-master\\sprint-0-warm-up-uml-MexicanOwl64-master\\Sprint 0 Warm Up\\Sprint 0 Warm Up.csproj",
+        "projectUniqueName": "C:\\Users\\mario\\Documents\\GitHub\\Sprint_0_GabeS\\sprint-0-warm-up-uml-MexicanOwl64-master\\Sprint 0 Warm Up\\Sprint 0 Warm Up.csproj",
         "projectName": "Sprint 0 Warm Up",
-        "projectPath": "D:\\Download\\sprint-0-warm-up-uml-MexicanOwl64-master\\sprint-0-warm-up-uml-MexicanOwl64-master\\Sprint 0 Warm Up\\Sprint 0 Warm Up.csproj",
+        "projectPath": "C:\\Users\\mario\\Documents\\GitHub\\Sprint_0_GabeS\\sprint-0-warm-up-uml-MexicanOwl64-master\\Sprint 0 Warm Up\\Sprint 0 Warm Up.csproj",
         "packagesPath": "C:\\Users\\mario\\.nuget\\packages\\",
-        "outputPath": "D:\\Download\\sprint-0-warm-up-uml-MexicanOwl64-master\\sprint-0-warm-up-uml-MexicanOwl64-master\\Sprint 0 Warm Up\\obj\\",
+        "outputPath": "C:\\Users\\mario\\Documents\\GitHub\\Sprint_0_GabeS\\sprint-0-warm-up-uml-MexicanOwl64-master\\Sprint 0 Warm Up\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mario\\AppData\\Roaming\\NuGet\\NuGet.Config",

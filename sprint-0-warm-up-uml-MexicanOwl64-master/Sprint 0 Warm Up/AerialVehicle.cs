@@ -11,52 +11,59 @@ namespace Sprint_0_Warm_Up
         Engine Engine { get; set; }
 
         bool EngineStart = false;
+
+
         public AerialVehicle()
         {
-            
+
         }
 
-        public bool About() 
+        public string About()
         {
-          
-           if (IsFlying == false)
+
+
+            if (IsFlying == true)
             {
                 WriteLine("This OOPFlyingVehicle.Airplane has a max altitude of 41000ft.");
                 WriteLine("It's current altitude is " + CurrentAltitude + " ft");
-                WriteLine("OOPFlyingVehicleMidterm.Airplane engine is started");
-            }
-           else
-            {
-                WriteLine("This OOPFlyingVehicle.Airplane has a max altitude of 41000ft.");
-                WriteLine("It's current altitude is " + CurrentAltitude + " ft");
-                WriteLine("OOPFlyingVehicleMidterm.Airplane engine is not started");
-                
-            }
-            return true;
-        }
-
-        public bool TakeOff()
-        {
-            
-            if (EngineStart == false)
-            {
-                WriteLine("OOPFlyingVehicleMidterm.Airplane can't fly it's engine is not started.");
-                EngineStart = true;
-                
-                return true;
+                return "OOPFlyingVehicleMidterm.Airplane engine is started";
             }
             else
             {
-                WriteLine("OOPFlyingVehicleMidterm.Airplane is flying");
-                return false;
+                WriteLine("This OOPFlyingVehicle.Airplane has a max altitude of 41000ft.");
+                WriteLine("It's current altitude is " + CurrentAltitude + " ft");
+                IsFlying = true;
+                return "OOPFlyingVehicleMidterm.Airplane engine is not started";
+
+
             }
-            
+
+
+        }
+
+        public string TakeOff()
+        {
+
+            if (EngineStart == false)
+            {
+                EngineStart = true;
+                return "OOPFlyingVehicleMidterm.Airplane can't fly it's engine is not started.";
+
+            }
+            else
+            {
+                IsFlying = true;
+                return "OOPFlyingVehicleMidterm.Airplane is flying";
+
+            }
+
         }
 
         public void StartEngine()
         {
-            
+
         }
+
 
         public void FlyDown(int howMuch)
         {
@@ -69,16 +76,9 @@ namespace Sprint_0_Warm_Up
 
         }
 
-        internal void FlyUp()
+        internal void FlyUp(int HowMuch)
         {
-         
 
-
-        }
-
-        internal void FlyUp(int HowMuch) 
-        {
-          
             if (HowMuch <= 41000)
             {
 
@@ -87,10 +87,10 @@ namespace Sprint_0_Warm_Up
             }
             else
             {
-                
-               
+
+
             }
-           
+
         }
     }
 }
